@@ -16,7 +16,7 @@ This proves that **no coins were created out of thin air**. Every MWC in existen
 
 ## Requirements
 
-- A fully synced MWC node
+- A fully synced MWC **archive node** (regular nodes prune old block data)
 - Access to the node's chain data directory (typically `~/.mwc/main/chain_data`)
 - Rust toolchain
 
